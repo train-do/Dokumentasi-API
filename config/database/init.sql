@@ -1,0 +1,1 @@
+create database sistem_voucher_db;

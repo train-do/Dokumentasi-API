@@ -1,0 +1,19 @@
+{
+    "schemes": [
+        "http"
+    ],
+    "swagger": "2.0",
+    "info": {
+        "description": "this is a shipping api",
+        "title": "shipping API",
+        "contact": {
+            "name": "API support"
+        },
+        "license": {
+            "name": "Lumoshive academy"
+        },
+        "version": "1.0"
+    },
+    "host": "Localhost:8088",
+    "paths": {}
+}

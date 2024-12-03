@@ -1,0 +1,13 @@
+host: Localhost:8088
+info:
+  contact:
+    name: API support
+  description: this is a shipping api
+  license:
+    name: Lumoshive academy
+  title: shipping API
+  version: "1.0"
+paths: {}
+schemes:
+- http
+swagger: "2.0"
